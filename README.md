@@ -116,9 +116,3 @@ based on environmental and agricultural conditions.
 - Mobile application support
 - Cloud deployment
 - Real-time analytics dashboard
-
----
-
-## 👨‍💻 Author
-
-Devan Beeda
